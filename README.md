@@ -7,3 +7,6 @@ A C# Form .NET file that gets the cpu temp of computer, displays it on a custom 
 4. Pick and open the com port from the C# file (if you dont know which one it is, you can go to the arduino editor > tools > port > com#)
 
 //IMPORTANT// - The arduino code must be ran before the C# connects to the port, otherwise, the port will be active and the arduino cannot pull any data from it
+
+GetTemps2 - The Arduino File
+GetTemps2.0 - The C# files
