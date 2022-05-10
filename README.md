@@ -11,3 +11,6 @@ A C# Form .NET file that gets the cpu temp of computer, displays it on a custom 
 GetTemps2 - The Arduino File
 
 GetTemps2.0 - The C# files
+
+
+Video: https://www.youtube.com/watch?v=0zvDkxOVQ4k
